@@ -1,0 +1,8 @@
+Bubble sort queue: 
+Name:OPN
+Name:TYU
+Name:TYU
+Heap sort queue: 
+Name:OPN
+Name:EWQ
+Name:TYU

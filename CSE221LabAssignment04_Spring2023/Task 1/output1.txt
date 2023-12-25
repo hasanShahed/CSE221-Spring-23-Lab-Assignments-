@@ -1,0 +1,10 @@
+Build graph using Dictionary
+1-> 2, 4
+3-> 1, 4
+2-> 4
+4-> 2
+Build graph using List of Lists
+2-> 2, 4
+4-> 4
+1-> 1, 4
+2-> 2
